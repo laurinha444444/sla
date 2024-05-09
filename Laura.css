@@ -1,5 +1,5 @@
 header{
-background: #888888;
+background: #be3054;
 padding: 20px 0;
 
 }
@@ -11,4 +11,8 @@ margin: 0 auto;
 
 }
 
-nav{}
+nav{
+    position: absolute:;
+    top:110px
+    rigth: 0;
+}
